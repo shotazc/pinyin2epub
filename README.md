@@ -90,7 +90,7 @@ pinyin2epub adds pinyin to epub files.
 # HOW TO USE  
 `>>python pinyin2epub.py`  
 
-epub2pinyin reads all epub files in same directory.  
+pinyin2epub reads all epub files in same directory.  
 
 converted epub files are saved in `./with_pinyin` folder.  
 original epub files are moved in `./converted_original` folder.  

@@ -93,3 +93,8 @@ epub2pinyin reads all epub files in same directory.
 converted epub files are saved in `./with_pinyin` folder.  
 original epub files are moved in `./converted_original` folder.  
 
+# REQUIREMENT  
+BeautifulSoup  
+SnowNLP  
+pinyin  
+

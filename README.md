@@ -88,7 +88,7 @@ pinyin2epub adds pinyin to epub files.
             
             
 # HOW TO USE  
-`>>python epub2pinyin.py`  
+`>>python pinyin2epub.py`  
 
 epub2pinyin reads all epub files in same directory.  
 

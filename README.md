@@ -85,3 +85,8 @@ pinyin2epub adds pinyin to epub files.
               。
              </rt>
             </ruby>
+            
+            
+#HOW TO USE
+
+epub2pinyin reads all epub files in same directory.

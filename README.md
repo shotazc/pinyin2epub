@@ -100,3 +100,7 @@ BeautifulSoup
 SnowNLP  
 pinyin  
 
+
+# LICENSE
+MIT LICENSE
+
